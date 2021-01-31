@@ -1,4 +1,4 @@
-![Header](readme_header_hafen.jpg "Header")
+![Header](readme_header_hafen.jpeg "Header")
 ##  _Hi, welcome to my profile_  &#9996; 
 
 ### _May I introduce myself_
