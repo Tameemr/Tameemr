@@ -27,7 +27,7 @@ Currently diving into the magical world of Vue.js and Typescript!
 | nuxt.js |    |   |
 |VS Code / IntelliJ / Eclipse |    |   |
 | Atlassian Jira / Confluence / Sourcetree |    |   |
-| |    | English / Dutch / German (_native_)   |
+| |    | English / Finnish / Arabic (_native_)   |
 
 
 ---
