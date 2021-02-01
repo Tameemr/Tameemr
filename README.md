@@ -16,17 +16,15 @@ Currently diving into the magical world of React.js and Javacript!
 
 | Tools & Technologies        | Experience & Skills           | Languages      |
 | :-------------: |:-------------:| :---------:|
-| Vue.js  | SoftwareDevelopment  | Html5 |
-| Tailwind CSS      | Scrum / Kanban      |   CSS / LESS / SASS |
-| Vuetify / Bootstrap | UI/UX Design      |    JavaScript |
-| Rest API / GraphQL | Pair Programming      |    Typescript |
-| jQuery | CI/CD      |   |
-| Docker | Unit Testing      |   |
-| npm / yarn | eCommerce Software  (_Demandware / Salesforce eCommerce Cloud_)  |   |
-| Gitlab |   |   |
-| nuxt.js |    |   |
-|VS Code / IntelliJ / Eclipse |    |   |
-| Atlassian Jira / Confluence / Sourcetree |    |   |
+| React.js  | SoftwareDevelopment  | Html5 |
+| Bootstrap      | Scrum      |   CSS |
+| Node.js | UI/UX Design      |    JavaScript |
+| Rest API / MySQL / MariaDB | Pair Programming      |   |
+| jQuery | Unit Testing      |   |
+| npm | Graphic Design      |   |
+| Git |   |   |
+| VS Code |    |   |
+| Wordpress |    |   |
 | |    | English / Finnish / Arabic (_native_)   |
 
 
@@ -35,9 +33,9 @@ Currently diving into the magical world of React.js and Javacript!
 
 ### _Interests_
 
-- &#128025; I’m currently learning to write proper unit tests with [vue-testing-library][4] 
+- &#128025; I’m currently learning principles about SEO and Digital Marketing 
 
-- &#127928; besides of that I am also an autodidactic guitarist (bloody beginner level) and enthusiastic about learning dutch (_on going_)
+- &#127928; besides of that I am also improving my presentation skills (passionate about it) and enthusiastic about learning finnish, currently intermediate level (_on going_)
 
  
 
