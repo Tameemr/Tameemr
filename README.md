@@ -19,13 +19,13 @@ Currently diving into the magical world of React.js and Javacript!
 | React.js  | SoftwareDevelopment  | Html5 |
 | Bootstrap      | Scrum      |   CSS |
 | Node.js | UI/UX Design      |    JavaScript |
-| Rest API / MySQL / MariaDB | Pair Programming      |   |
+|    Rest API / MySQL / MariaDB    |    Pair Programming      |   |
 | jQuery | Unit Testing      |   |
 | npm | Graphic Design      |   |
 | Git |   |   |
 | VS Code |    |   |
 | Wordpress |    |   |
-| |    | English / Finnish / Arabic (_native_)   |
+| |    |      English / Finnish / Arabic (_native_)      |
 
 
 ---
