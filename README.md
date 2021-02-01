@@ -35,7 +35,7 @@ Currently diving into the magical world of React.js and Javacript!
 
 - &#128025; I’m currently learning principles about SEO and Digital Marketing 
 
-- &#127928; besides of that I am also improving my presentation skills (passionate about it) and enthusiastic about learning finnish, currently intermediate level (_on going_)
+- :battery: besides of that I am also improving my presentation skills (passionate about it) and enthusiastic about learning finnish, currently intermediate level (_on going_)
 
  
 
