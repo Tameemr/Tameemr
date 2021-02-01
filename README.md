@@ -53,14 +53,13 @@ Currently diving into the magical world of React.js and Javacript!
 
 ### _Get in touch_ &#127919;
 
-- [Twitter][1]
+- [Portfolio][1]
 - [LinkedIn][2] 
-- [Xing][3] 
+- [][3] 
 
 
 <!-- Links to social media accounts -->
 
-[1]: https://twitter.com/AntjeSommer3
-[2]: https://www.linkedin.com/in/antje-sommer
-[3]: https://www.xing.com/profile/Antje_Sommer9/cv
-[4]: https://testing-library.com/docs/vue-testing-library/intro
+[1]: https://tameemrajab.com/portfolio
+[2]: https://www.linkedin.com/in/tameem-rajab-91733b14a
+[3]: #
