@@ -4,9 +4,9 @@
 ### _May I introduce myself_
 
 
-I am Antje, a passionate self-taught Frontend Developer with longtime experience in UI/UX Design and Ecommerce, based in Hamburg. 
+I am Tameem, a recent graduate Frontend Developer and passionate self-taught with longtime experience in Graphic Design and Management, based in Helsinki. 
 
-Currently diving into the magical world of Vue.js and Typescript!
+Currently diving into the magical world of React.js and Javacript!
 
 ---
 
