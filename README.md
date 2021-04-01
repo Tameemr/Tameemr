@@ -60,6 +60,6 @@ Currently diving into the magical world of React.js and Javacript!
 
 <!-- Links to social media accounts -->
 
-[1]: https://tameemrajab.com/portfolio
+[1]: https://portfolio.tameemrajab.com/
 [2]: https://www.linkedin.com/in/tameem-rajab-91733b14a
 [3]: #
